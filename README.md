@@ -6,7 +6,9 @@ This repository contains the tasks and projects completed during my C++ internsh
 
 - **Task 1**: Guess the Number Game
 - **Task 2**: 
-- **Task 3**: 
+- **Task 3**:
+- **Task 4**:
+- **Task 5**:
 
 ## Getting Started
 
