@@ -23,10 +23,10 @@ Here's how the game looks in action:
 1. Rock
 2. Paper
 3. Scissors
-Enter your choice (1, 2, 3): 1
-You chose: **Rock**
-Computer chose: **Scissors**
-**You win!**
+- Enter your choice (1, 2, 3): 1
+- You chose: **Rock**
+- Computer chose: **Scissors**
+- **You win!**
 
 # Conclusion
 This task helped me practice basic C++ concepts such as input handling, random number generation, and conditional statements. The game provides a fun and interactive way to apply these skills.
