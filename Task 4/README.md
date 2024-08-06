@@ -46,12 +46,12 @@ This project is a simple implementation of the Connect 4 game in C++. It provide
 3. **Compile the Code:**
 
    ```bash
-   g++ -o connect4 connect4.cpp
+   g++ -o Connect Connect.cpp
 
 4. **Run the Program:**
 
    ```bash
-   ./connect4
+   ./Connect
 
 5. **Follow the On-Screen Instructions to play the game.**
 
