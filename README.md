@@ -8,8 +8,7 @@ This repository contains the tasks and projects completed during my C++ internsh
 - **Task 2**: Rock Paper Scissors
 - **Task 3**: Tic Tac Toe
 - **Task 4**: Connect Four Game
-- **Task 5**:
-
+  
 ## Getting Started
 
 To get started with this repository, clone it to your local machine using the following command:
