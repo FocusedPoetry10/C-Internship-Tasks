@@ -4,7 +4,7 @@ This repository contains the tasks and projects completed during my C++ internsh
 
 ## Repository Structure
 
-- **Task 1**: Guess the Number Game
+1. [**Task 1**: Guess the Number Game](#Task 1)
 - **Task 2**: Rock Paper Scissors
 - **Task 3**: Tic Tac Toe
 - **Task 4**: Connect Four Game
