@@ -15,4 +15,4 @@ This repository contains the tasks and projects completed during my C++ internsh
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone [git@github.com:your-username/CPlusPlus-Internship-Tasks.git](https://github.com/FocusedPoetry10/InternPE-_CPlusPlus-Internship-Tasks.git)
+git clone https://github.com/FocusedPoetry10/InternPE-_CPlusPlus-Internship-Tasks.git
